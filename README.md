@@ -1,4 +1,13 @@
+# 💫 Hi 👋, I'm Khizer Rizvi
+**A passionate Computer Science student and aspiring Software Engineer**
 
+Email Me 👉 ✉️ **syedkhizer405@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Flashcard Quiz App
+- 🌱 **I’m currently learning:** App Development
+- 🤔 **I’m looking for help with:** Flutter
+- 📫 **How to reach me:** syedkhizer405@gmail.com
+- ⚡ **Fun fact:** I enjoy turning ideas into practical software projects
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/khizerrizvi12) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khizerrizvi12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-muhammad-khizer-rizvi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedkhizer405@gmail.com) 
